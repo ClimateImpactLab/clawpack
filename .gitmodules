@@ -16,7 +16,7 @@
 [submodule "geoclaw"]
 	path = geoclaw
 	url = https://github.com/ClimateImpactLab/geoclaw.git
-	branch = clawpack-update
+	branch = main
 [submodule "classic"]
 	path = classic
 	url = https://github.com/clawpack/classic.git
